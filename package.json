@@ -23,6 +23,7 @@
     "lodash": "^4.11.2"
   },
   "scripts": {
-    "typings": "typings install"
+    "typings": "typings install",
+    "Start": "node run.js"
   }
 }
