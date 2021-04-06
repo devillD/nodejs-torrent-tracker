@@ -24,6 +24,6 @@
   },
   "scripts": {
     "typings": "typings install",
-    "Start": "node run.js"
+    "start": "node run.js"
   }
 }
